@@ -23,9 +23,9 @@ $ yarn add gulp-page-by-ljay
 <!-- TODO: Introduction of API use -->
 
 ```javascript
-const gulpPage = require('gulp-page')
-const result = gulpPage('zce')
-// result => 'zce@zce.me'
+const gulpPage = require('gulp-page-by-ljay')
+const result = gulpPage('ljay')
+// result => 'ljay@163.com'
 ```
 
 ## API
@@ -45,7 +45,7 @@ const result = gulpPage('zce')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'ljay92'`
 
 ## Contributing
 
