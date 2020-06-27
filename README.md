@@ -1,4 +1,4 @@
-# gulp-page
+# gulp-page-by-ljay
 
 [![NPM Downloads][downloads-image]][downloads-url]
 [![NPM Version][version-image]][version-url]
@@ -12,10 +12,10 @@
 ## Installation
 
 ```shell
-$ npm install gulp-page
+$ npm install gulp-page-by-ljay
 
 # or yarn
-$ yarn add gulp-page
+$ yarn add gulp-page-by-ljay
 ```
 
 ## Usage
