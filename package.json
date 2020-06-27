@@ -1,0 +1,36 @@
+{
+  "name": "gulp-page",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "gulp-page",
+    "zce"
+  ],
+  "homepage": "https://github.com/ljay92/gulp-page#readme",
+  "bugs": {
+    "url": "https://github.com/ljay92/gulp-page/issues"
+  },
+  "license": "MIT",
+  "author": "linjie <ljay92@163.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljay92/gulp-page.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
